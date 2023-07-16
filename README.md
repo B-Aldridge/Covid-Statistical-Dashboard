@@ -19,9 +19,25 @@ To run the code, follow the steps below:
 # Project Files
 The root directory of this repository contains the following files:
 
-•Group1ProposalProject3.docx: The initial written proposal for this project. It outlines the project objectives and goals.
+• CSV: Where our data was being housed
 
-•layout.pdf: The original layout idea for the project. Please note that the final implementation may have some differences due to feasibility considerations, but it generally addresses the original intent.
+• Dashboard: Main hub where app.py is located to run the code.
+
+• Implementation_pngs: Implentation pictures.
+
+• Databases: Flash running the JSON files in the directory.
+
+• hypothesis 3_population-infection: Code in process for toggable map by year not implemented.
+
+• Python : Early Webscrapping work and additional visualizations included in presentation.
+
+• Group 3 Presentation.pptx: Powerpoint going over our findings.
+
+• Group1ProposalProject3.docx: The initial written proposal for this project. It outlines the project objectives and goals.
+
+• High-level workflow list.docx: Methodology used for this project.
+
+• layout.pdf: The original layout idea for the project. Please note that the final implementation may have some differences due to feasibility considerations, but it generally addresses the original intent.
 
 Feel free to explore the code and project files to understand the implementation details and how the visualizations were created.
 
@@ -29,15 +45,20 @@ Feel free to explore the code and project files to understand the implementation
 Upon successful running app.py, you will arrive at the main dashboard
 ![dash](Implementation_pngs/Dashboard.png)
 
+The first link, Go to Continent Map (Case Data) will pull up a map as shown below where each country can be interacted with showing Covid Cases, recovery, and recovery rate.
 ![continent_map](Implementation_pngs/Continent_Map.png)
 
-![dash](Implementation_pngs/Country_Map.png)
+The Go to Country Map (Vaccine Data)
+![country_map](Implementation_pngs/Country_Map.png)
 
-![dash](Implementation_pngs/Lockdown.png)
+The Go to Lockdown Measures
+![lockdown](Implementation_pngs/Lockdown.png)
 
-![dash](Implementation_pngs/Tourism.png)
+The Go to Tourism
+![tourism](Implementation_pngs/Tourism.png)
 
-![dash](Implementation_pngs/Vaccination.png)
+The Go to Vaccination Only Dashboard
+![vaccination](Implementation_pngs/Vaccination.png)
 
 
 # Credits
