@@ -14,12 +14,13 @@ To run the code, follow the steps below:
 
 1. Ensure that you have a MongoDB local server running.
 2. Import the "owid_covid_data" collection into your local MongoDB database. The collection can be imported from the file databases/local.owid_covid_data.json.
-3.Run the file Dashboard/app.py. This will launch the website using Flask.
+3. Run the file Dashboard/app.py. This will launch the website using Flask.
 
 # Project Files
 The root directory of this repository contains the following files:
 
 •Group1ProposalProject3.docx: The initial written proposal for this project. It outlines the project objectives and goals.
+
 •layout.pdf: The original layout idea for the project. Please note that the final implementation may have some differences due to feasibility considerations, but it generally addresses the original intent.
 
 Feel free to explore the code and project files to understand the implementation details and how the visualizations were created.
