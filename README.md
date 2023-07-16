@@ -39,7 +39,7 @@ Madi Subaiti: (https://github.com/mssubaiti)
 Seth B: (https://github.com/SNbeverley)
 
 # Data Sources
-The following data sources were used for this project:
+The following are data sources that were primarily used for this project:
 
 [World Health Organization (WHO) COVID-19 Data](https://covid19.who.int/data): The project scraped data from this website to gather COVID-19 related information such as deaths, infections, and vaccinations.
 
