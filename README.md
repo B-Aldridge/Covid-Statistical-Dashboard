@@ -29,15 +29,15 @@ Feel free to explore the code and project files to understand the implementation
 Upon successful running app.py, you will arrive at the main dashboard
 ![dash](Implementation_pngs/Dashboard.png)
 
-![continent_map](Implementation_pngs/Continent Map.png)
+![continent_map](Implementation_pngs/Continent_Map.png)
 
-![dash](Implementation_pngs/Dashboard.png)
+![dash](Implementation_pngs/Country_Map.png)
 
-![dash](Implementation_pngs/Dashboard.png)
+![dash](Implementation_pngs/Lockdown.png)
 
-![dash](Implementation_pngs/Dashboard.png)
+![dash](Implementation_pngs/Tourism.png)
 
-![dash](Implementation_pngs/Dashboard.png)
+![dash](Implementation_pngs/Vaccination.png)
 
 
 # Credits
