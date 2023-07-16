@@ -38,3 +38,16 @@ Madi Subaiti: (https://github.com/mssubaiti)
 
 Seth B: (https://github.com/SNbeverley)
 
+# Data Sources
+The following data sources were used for this project:
+
+[World Health Organization (WHO) COVID-19 Data](https://covid19.who.int/data): The project scraped data from this website to gather COVID-19 related information such as deaths, infections, and vaccinations.
+
+[Worldometer](https://www.worldometers.info/coronavirus/): This website was also scraped to collect COVID-19 data, including deaths and infections.
+
+[Our World In Data](https://ourworldindata.org/covid-vaccinations): This website was used to download the CSV file with Covid-19 data which contained a large portion of the metrics used.
+
+[World Bank](https://data.worldbank.org/indicator/ST.INT.ARVL?end=2020&start=2020&view=map&year=2020): This website was used to download a csv of tourism data for our visualization.
+
+
+
