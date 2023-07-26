@@ -8,6 +8,12 @@
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 
+# Forked Project Note:
+
+I forked this group project to add a useful description that was missing. As a contributor to the original project, I believe this addition will enhance its visibility and usefulness. Feel free to check out the original project [here](https://github.com/KZavalin/Project3_COVID_Stats)
+
+# Intro
+
 This repository contains the code for the Interactive Covid Statistical Dashboard, which was developed as a project part of the Vanderbilt Data Analytics Bootcamp in 2023. The project focuses on creating a website with multiple visualization tools for analyzing the relationships between COVID deaths and infections, population density, tourism, and vaccination within a country.
 
 # Goal
